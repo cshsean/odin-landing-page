@@ -53,6 +53,7 @@ button {
     display: flex;
     justify-content: space-between;
     padding: 50px;
+    flex-wrap: wrap-reverse;
     color: white;
     align-items: center;
     gap: 30px;
